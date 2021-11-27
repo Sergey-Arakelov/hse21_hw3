@@ -18,8 +18,8 @@
 
 Количество уникально картированных чтений по каждому образцу:
 
-![image](https://user-images.githubusercontent.com/93254228/143722252-b12812b8-6cb7-4fac-9526-b53cabd807f2.png)
+![image](https://user-images.githubusercontent.com/93254228/143722266-f8c31506-0511-455a-8523-8e19b3f3dd57.png)
 
 Смотрим статистику HTSeq и узнаем, количество чтений соответствует участкам генома, где не аннотировано ни одного экзона и количество чтений, которые могут принадлежать разным генам:
 
-![image](https://user-images.githubusercontent.com/93254228/143722266-f8c31506-0511-455a-8523-8e19b3f3dd57.png)
+![image](https://user-images.githubusercontent.com/93254228/143722252-b12812b8-6cb7-4fac-9526-b53cabd807f2.png)
