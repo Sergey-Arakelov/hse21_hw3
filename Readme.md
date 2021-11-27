@@ -11,7 +11,7 @@
 ![fastqc_per_sequence_gc_content_plot](https://user-images.githubusercontent.com/93254228/143722086-566ebd81-6102-4a4d-8190-0e0d1d3e2442.png)
 ![fastqc_per_base_n_content_plot](https://user-images.githubusercontent.com/93254228/143722090-8bb57ff3-4d0a-469b-b356-38b3316c2f03.png)
 ![fastqc_sequence_duplication_levels_plot](https://user-images.githubusercontent.com/93254228/143722102-2c780be9-424b-49df-8cf7-fe4a653e1480.png)
-```
+
 Суммарная статистика:
 
 ![fastqc-status-check-heatmap](https://user-images.githubusercontent.com/93254228/143722105-4f45e57b-950a-46e6-ac0c-ff717dd99466.png)
