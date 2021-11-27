@@ -31,3 +31,7 @@
 Таблица (сделанная в Excel) со статистикой по каждому образцу:
 
 ![image](https://user-images.githubusercontent.com/93254228/143722563-4a3171c3-ab48-496d-8810-ebfb956f3cb6.png)
+
+Таблица c1, c2, c3, r1, r2, r3 (файл all.counts)
+
+![image](https://user-images.githubusercontent.com/93254228/143722617-3a8413fe-d7d4-4ca0-b7f5-5bc9889da704.png)
