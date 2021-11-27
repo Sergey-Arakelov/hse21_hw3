@@ -30,11 +30,4 @@
 
 Таблица (сделанная в Excel) со статистикой по каждому образцу:
 
-Sample ID	type	reads (total)	mapped reads	unique mapped reads	matchings
-SRR3414629	reprogramming	21106089	20510113	18375888	16049609
-SRR3414630	reprogramming	15244711	14832680	13186139	11465324
-SRR3414631	reprogramming	24244069	23547686	20928945	18408851
-SRR3414635	control	20956475	20395865	18428317	16275997
-SRR3414636	control	20307147	19757059	17825380	15757580
-SRR3414637	control	20385570	19847291	17844858	15736978
-
+![image](https://user-images.githubusercontent.com/93254228/143722563-4a3171c3-ab48-496d-8810-ebfb956f3cb6.png)
