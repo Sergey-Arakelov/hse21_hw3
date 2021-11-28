@@ -44,3 +44,33 @@
 ![image](https://user-images.githubusercontent.com/93254228/143766890-960d608f-5d10-4151-9bb7-a6de4e58826c.png)
 
 Часть 2. Анализ с помощью DESeq2. Выполняется на R-ноутбуке
+
+MA-plot, показывающий Log2FC для генов:
+
+![image](https://user-images.githubusercontent.com/93254228/143769446-c78ed4bb-bb59-410f-b285-203ca7fdca15.png)
+
+Тепловая карта, показывающая созависимость экспрессии генов из контрольных и репрограммированных образцов:
+
+![image](https://user-images.githubusercontent.com/93254228/143769477-9b960ce4-9b18-469f-b0b7-bd6d542332f2.png)
+
+Тепловая карта для первых 20 наиболее дифференциально экспрессированных генов:
+
+![image](https://user-images.githubusercontent.com/93254228/143769494-24964c46-04a3-40c6-b3c2-6cc348fe60a6.png)
+
+Значения "Normalized counts" в контрольных и перепрограммированных образцах:
+
+![image](https://user-images.githubusercontent.com/93254228/143769640-f0bef0dd-9f09-4bc0-a978-0c79be12e597.png)
+
+![image](https://user-images.githubusercontent.com/93254228/143769659-3c9eebe0-30d2-4719-9c90-0a05c7269014.png)
+
+![image](https://user-images.githubusercontent.com/93254228/143769673-57904545-4627-4e4c-b1ba-e2a1ded3014c.png)
+
+![image](https://user-images.githubusercontent.com/93254228/143769682-df466ae8-97e4-43db-9645-1ec1eabda128.png)
+
+Конец
+
+
+
+
+
+
