@@ -22,3 +22,8 @@
 Суммарная статистика:
 
 ![fastqc-status-check-heatmap](https://user-images.githubusercontent.com/93254228/143735445-4281022e-e9e8-4086-a3d5-fc435d0d50b8.png)
+
+Количество уникально-картированных чтений по каждому образцу
+
+![image](https://user-images.githubusercontent.com/93254228/143763500-a3b21a81-1052-46e7-b4a9-88d68e6abf80.png)
+
