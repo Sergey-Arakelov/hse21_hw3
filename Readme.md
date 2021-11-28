@@ -42,3 +42,5 @@
 Таблица (файлл all_counts)
 
 ![image](https://user-images.githubusercontent.com/93254228/143766890-960d608f-5d10-4151-9bb7-a6de4e58826c.png)
+
+Часть 2. Анализ с помощью DESeq2
