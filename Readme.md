@@ -1,6 +1,6 @@
 Часть 1
 
-Ссылка на Google-Colab (1 часть): 
+Ссылка на Google-Colab (1 часть): https://colab.research.google.com/drive/1B8_4ntL7yWqhKpF5SE0j5uN7AkNpY4AQ?usp=sharing 
 
 Проверка качества чтений из FastQC: сравнительная статистика из MultiQC
 
