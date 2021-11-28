@@ -38,3 +38,7 @@
 Таблица со статистикой по каждому образцу
 
 ![image](https://user-images.githubusercontent.com/93254228/143764707-f1be9a2d-22d0-47dc-a24a-42a5faca5c67.png)
+
+Таблица (файлл all_counts)
+
+![image](https://user-images.githubusercontent.com/93254228/143766890-960d608f-5d10-4151-9bb7-a6de4e58826c.png)
