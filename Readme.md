@@ -31,6 +31,10 @@
 
 ![image](https://user-images.githubusercontent.com/93254228/143766757-84574012-a12a-4b2e-93ae-14af7d28eef2.png)
 
+Количество чтений, соответствующих хотя бы одному гену:
+
+![image](https://user-images.githubusercontent.com/93254228/143766822-3802748a-799b-4add-b4dc-1588e35432dc.png)
+
 Таблица со статистикой по каждому образцу
 
 ![image](https://user-images.githubusercontent.com/93254228/143764707-f1be9a2d-22d0-47dc-a24a-42a5faca5c67.png)
