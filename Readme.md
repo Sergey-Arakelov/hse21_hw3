@@ -2,38 +2,23 @@
 
 Ссылка на Google-Colab (1 часть): https://colab.research.google.com/drive/1Su05odi3OTGy1TjwniUUJcA0V7kIJ6hs?usp=sharing
 
-Проверка качества чтений из fastQC: сравнительная статистика из multiQC
+Проверка качества чтений из FastQC: сравнительная статистика из MultiQC
 
-![image](https://user-images.githubusercontent.com/93254228/143721942-0d4f9c74-1222-421b-9281-5b2d83a14667.png)
-![fastqc_sequence_counts_plot](https://user-images.githubusercontent.com/93254228/143722062-756f847a-e5a5-407f-b66b-d774901ea828.png)
-![fastqc_per_base_sequence_quality_plot](https://user-images.githubusercontent.com/93254228/143722076-c031d1d4-e5bb-491e-8c8f-e975abbba039.png)
-![fastqc_per_sequence_quality_scores_plot](https://user-images.githubusercontent.com/93254228/143722081-88ffb686-bea0-4da1-83d7-8544ac8c7b2c.png)
-![fastqc_per_sequence_gc_content_plot](https://user-images.githubusercontent.com/93254228/143722086-566ebd81-6102-4a4d-8190-0e0d1d3e2442.png)
-![fastqc_per_base_n_content_plot](https://user-images.githubusercontent.com/93254228/143722090-8bb57ff3-4d0a-469b-b356-38b3316c2f03.png)
-![fastqc_sequence_duplication_levels_plot](https://user-images.githubusercontent.com/93254228/143722102-2c780be9-424b-49df-8cf7-fe4a653e1480.png)
+![image](https://user-images.githubusercontent.com/93254228/143735315-81953ada-b85f-44c6-8b3a-b73e44f18ca0.png)
+
+![fastqc_sequence_counts_plot](https://user-images.githubusercontent.com/93254228/143735336-d03a21fe-dc4b-4a1b-b55b-7c265e14cb42.png)
+
+![fastqc_per_base_sequence_quality_plot](https://user-images.githubusercontent.com/93254228/143735353-e8a498ec-d81f-4613-9430-86da4dff5d2a.png)
+
+![fastqc_per_sequence_quality_scores_plot](https://user-images.githubusercontent.com/93254228/143735374-ea6c93c2-953d-4406-84ff-3185dabe697d.png)
+
+![fastqc_per_sequence_gc_content_plot](https://user-images.githubusercontent.com/93254228/143735386-a091a948-d915-4b96-9fbf-02179f931d80.png)
+
+![fastqc_per_base_n_content_plot](https://user-images.githubusercontent.com/93254228/143735399-4cc74556-51b1-4eb1-b78e-21930bb5ece6.png)
+
+![fastqc_sequence_duplication_levels_plot](https://user-images.githubusercontent.com/93254228/143735417-f8a9679f-5ceb-48ba-a2bf-aa5cf31cd6de.png)
+
 
 Суммарная статистика:
 
-![fastqc-status-check-heatmap](https://user-images.githubusercontent.com/93254228/143722105-4f45e57b-950a-46e6-ac0c-ff717dd99466.png)
-
-Количество уникально картированных чтений по каждому образцу:
-
-![image](https://user-images.githubusercontent.com/93254228/143722266-f8c31506-0511-455a-8523-8e19b3f3dd57.png)
-
-Смотрим статистику HTSeq и узнаем, количество чтений соответствует участкам генома, где не аннотировано ни одного экзона, и количество чтений, которые могут принадлежать разным генам:
-
-![image](https://user-images.githubusercontent.com/93254228/143722252-b12812b8-6cb7-4fac-9526-b53cabd807f2.png)
-
-Считаем количество чтений, соответствующих хотя бы одному гену:
-
-![image](https://user-images.githubusercontent.com/93254228/143722333-fdfb1388-680a-44df-9526-e0bd2e1395ee.png)
-
-Таблица (сделанная в Excel) со статистикой по каждому образцу:
-
-![image](https://user-images.githubusercontent.com/93254228/143722563-4a3171c3-ab48-496d-8810-ebfb956f3cb6.png)
-
-Таблица c1, c2, c3, r1, r2, r3 (файл all.counts)
-
-![image](https://user-images.githubusercontent.com/93254228/143722617-3a8413fe-d7d4-4ca0-b7f5-5bc9889da704.png)
-
-Часть 2. Анализ с помощью DESeq2
+![fastqc-status-check-heatmap](https://user-images.githubusercontent.com/93254228/143735445-4281022e-e9e8-4086-a3d5-fc435d0d50b8.png)
