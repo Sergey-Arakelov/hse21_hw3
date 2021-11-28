@@ -45,6 +45,8 @@
 
 Часть 2. Анализ с помощью DESeq2. Выполняется на R-ноутбуке
 
+Ссылка на Google Colab: https://colab.research.google.com/drive/1QFY9AY2WtxtlnN7o9JqGxAAX_3t-YIzo?usp=sharing
+
 MA-plot, показывающий Log2FC для генов:
 
 ![image](https://user-images.githubusercontent.com/93254228/143769446-c78ed4bb-bb59-410f-b285-203ca7fdca15.png)
